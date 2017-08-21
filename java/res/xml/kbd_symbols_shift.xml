@@ -56,10 +56,6 @@
     </Row>
     <Row>
         <Key
-            android:codes="@integer/key_tab"
-            android:keyLabel="\u21E5"
-            android:keyEdgeFlags="left" />
-        <Key
             android:keyLabel="£" />
         <Key
             android:keyLabel="¢" />

@@ -131,12 +131,6 @@
     </Row>
     <Row>
         <Key
-            android:codes="@integer/key_tab"
-            android:keyIcon="@drawable/sym_keyboard_tab"
-            android:iconPreview="@drawable/sym_keyboard_feedback_tab"
-            android:keyEdgeFlags="left"
-            android:isModifier="true" />
-        <Key
             android:keyLabel="@string/key_ad01_main"
             android:shiftLabel="@string/key_ad01_shift"
             android:popupKeyboard="@xml/kbd_popup_template"

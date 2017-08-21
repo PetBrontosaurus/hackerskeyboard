@@ -83,13 +83,6 @@
     </Row>
     <Row>
         <Key
-            android:codes="@integer/key_tab"
-            android:keyIcon="@drawable/sym_keyboard_tab"
-            android:iconPreview="@drawable/sym_keyboard_feedback_tab"
-            android:keyWidth="10.7142855%p"
-            android:isModifier="true"
-            android:keyEdgeFlags="left" />
-        <Key
             android:codes="@integer/key_fkey_f5"
             android:keyWidth="8.035714%p"            
             android:isModifier="true"
